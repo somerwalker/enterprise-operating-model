@@ -109,20 +109,37 @@ Delivery
 
 ---
 
-## Contributing
+## Framework Context
 
-Contributions are welcome.
+This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
 
-Please review **CONTRIBUTING.md** before submitting changes.
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
 
 ---
 
 ## Author
 
-**Somer Walker**  
-Enterprise Program Leader | AI Transformation | Operational Excellence
+Somer Walker  
+Enterprise Program Leader | Operational Excellence | AI Transformation
 
-Background leading complex infrastructure, cloud, and AI initiatives across global organizations focused on turning strategy into disciplined execution.
+Background leading complex cloud, infrastructure, and AI initiatives across global organizations focused on turning strategy into disciplined execution.
 
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
+
+---
+
+## Contributing
+
+Suggestions, improvements, and additional examples are welcome.  
+Please review `CONTRIBUTING.md` before submitting a pull request.
+
+---
+
+## Copyright
+
+Copyright © 2026 Somer Walker
+
+This repository documents components of the **Transformation Operating Framework**.  
+Use of the framework methodology in commercial consulting or derivative consulting frameworks requires written permission from the author.
